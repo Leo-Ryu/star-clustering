@@ -11,6 +11,9 @@ The following dependencies should be installed:
 * numpy
 * scipy
 
+## Reference Docs
+https://docs.contour.so/josephius/star-clustering/getting-started
+
 ## Setup
 
 It is recommended that you have Scikit-Learn as the implementation provided here is meant to work with Scikit-Learn as a drop in replacement for other algorithms.
